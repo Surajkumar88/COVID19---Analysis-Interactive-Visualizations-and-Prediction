@@ -5,6 +5,7 @@ Feel free to contribute to the notebook or to share feedback/suggestion.
 
 # Kaggle
 [Follow me on Kaggle](https://www.kaggle.com/surajkumar88)
+<br>
 [View latest version](https://www.kaggle.com/surajkumar88/covid19-case-study-analysis-visualization)
 
 # Features
